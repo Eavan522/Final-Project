@@ -17,8 +17,7 @@
 
 ## Leaning curve and challenges
 
-- point 1
-- point 1
+When I was trying to add div to control the elements as supposed to do, the external div and the internal div always make my page looks very messy. I tried to find the answer on the W3Schools, also the website to find some pages to parse its code contents, I think this should be the part I need to keep learning, and it might be the most important part of web design as well.
 
 ## Resources
 
